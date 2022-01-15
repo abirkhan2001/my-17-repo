@@ -1,0 +1,28 @@
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.color{
+    color: darkslategray;
+}
+section{
+    display: flex;
+    padding-left: 5%;
+}
+.half-width{
+    width: 50%;
+}
+.batom{
+    text-decoration: none;
+   background-color: darkorange;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top{
+    background-color: darkseagreen;
+    padding-left: 20px;
+    padding-right: 5px;
+}
